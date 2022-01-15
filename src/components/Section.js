@@ -26,7 +26,7 @@ const Section = ({
           </ButtonGroup>
         </Fade>
 
-        <DownArrow src="\images\down-arrow.svg" />
+        <DownArrow src="\images\down-arrow.png" />
       </Buttons>
     </Wrap>
   )

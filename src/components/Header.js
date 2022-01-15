@@ -12,7 +12,7 @@ const Header = () => {
   return (
     <Container>
       <a>
-        <img src="images\logo.svg" alt="tesla logo" />
+        <img src="images\logo.png" alt="tesla logo" />
       </a>
       <Menu>
         {cars &&
