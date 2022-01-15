@@ -2,7 +2,7 @@
   "name": "tesla-clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://https://vivek-padelkar.github.io/tesla-clone",
+  "homepage": "//https://vivek-padelkar.github.io/tesla-clone",
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
