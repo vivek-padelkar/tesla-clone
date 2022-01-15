@@ -22,6 +22,7 @@ const Header = () => {
             </a>
           ))}
       </Menu>
+
       <RightMenu>
         <a href="#">Shop</a>
         <a href="#">Tesla Account</a>
@@ -31,6 +32,7 @@ const Header = () => {
           }}
         />
       </RightMenu>
+
       <BurgerNav show={burgerState}>
         <CloseWrapper>
           <CustomeClose
